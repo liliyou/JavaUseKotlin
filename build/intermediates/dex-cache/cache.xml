@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/xuyating/git/JavaUseKotlin/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e026e4e082813fd3c5b82cca471e508a683fdb50">
+        <dex dex="/Users/xuyating/git/JavaUseKotlin/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e031baef59a684df3fd8605abe72a67ac661fb2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xuyating/git/JavaUseKotlin/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/xuyating/git/JavaUseKotlin/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1b6b9551514a65b72cd54db34e0d5c65d22ee4bb/classes.dex" />
+    </item>
+
+</items>
